@@ -10,7 +10,7 @@ object RetrofitClient {
     //object RetrofitClient {
 
     // La URL base de la API
-    private const val BASE_URL = "http://192.168.100.1/ticketAM/"  // Reemplaza con la URL de tu servidor
+    private const val BASE_URL = "http://192.168.100.5/ticketAM/"  // Reemplaza con la URL de tu servidor
 
     // Instancia única de Retrofit, se crea solo una vez
     val api: ApiService by lazy {

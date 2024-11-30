@@ -1,4 +1,4 @@
-package com.example.tickets;
+package com.example.tickets
 
 import android.content.Intent // Para las intenciones de navegación
 import android.os.Bundle // Para el manejo del ciclo de vida de las actividades
