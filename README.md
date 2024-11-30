@@ -19,6 +19,13 @@ https://github.com/user-attachments/assets/4aa821ee-e8b2-4b2e-90d5-80013e2c5023
 
 https://www.mediafire.com/file/yt8nrteq5amzpbr/login2.php/file
 
+- Se adjunta script de base de datos con la tabla usuarios cargada y funcional.
+  https://www.mediafire.com/file/j12fsdytnsqrek1/usuarios.sql/file <br>
+
+  - Procedimiento para IMPORTAR el script desde panel de PHPMyAdmin <br>
+  
+https://github.com/user-attachments/assets/92bbbb39-722b-476e-91d2-ab28b7a69308
+
 
 
 
